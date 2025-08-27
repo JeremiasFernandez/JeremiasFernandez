@@ -14,7 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00FF00?style=flat-square&logo=chatgpt&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-343434?style=flat-square&logo=chatgpt&logoColor=white)
+
 
 ---
 
